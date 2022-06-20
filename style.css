@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Ubuntu:ital,wght@0,400;0,500;1,300;1,500;1,700&display=swap');
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.button{
+    padding:20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius:8px;
+    cursor: pointer;
+    width: 55px;
+}
+.container{
+    text-align: center;
+   
+}
+.row{
+    margin: 8px 0;
+}
+.input{
+    margin: 4px;
+    width: 55%;
+    font-size: 20px;
+}
